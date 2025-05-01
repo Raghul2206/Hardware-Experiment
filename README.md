@@ -1,4 +1,5 @@
 # Hardware-Experiment
+
 Ideal sampling
 ![ideal sampling](https://github.com/user-attachments/assets/45139381-915d-4df5-904e-d71ff34e1d80)
 Natural Sampling
